@@ -4,15 +4,14 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits}(#credits)
+- [Credits](#credits)
 ## Installation 
 To run this project locally, follow these steps:
 1. [Install Visual Studio Code]
 2. [locate week 4 tasks code on Olivia B-G drop box] 
 ## Usage 
 After installing the project, you can use it as follows:
-'''bash 
-$ python patterb.py 
-$ pyhton while.py
+1. $ python patterb.py 
+2. $ python while.py
 ## Credits
 This project was created by Olivia B-G. You can find more of my work at [https://www.dropbox.com/home/OB23110012694/Data%20Science%20(Fundamentals)]
